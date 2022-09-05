@@ -6,7 +6,7 @@ sudo apt-get -y install binutils nasm
 sudo apt-get -y install gcc-multilib g++-multilib
 sudo apt-get -y install libc6-dev-i386 libc6-dbg libc6-dbg:i386
 sudo apt-get -y install git nmap
-sudo apt-get -y install python-pip libssl-dev
+sudo apt-get -y install libssl-dev
 sudo apt-get -y install gdb
 sudo apt-get -y install ltrace strace
 sudo apt-get -y install ruby-rubygems
